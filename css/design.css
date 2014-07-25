@@ -1,0 +1,70 @@
+@import url(http://fonts.googleapis.com/css?family=Old+Standard+TT:400,700);
+
+body {
+	font-family: 'Old Standard', serif;
+	background-color: #d4d4d4;
+}
+
+.jumbotron {
+	background: #0F056B;
+	border-bottom: 1px solid #0F056B;
+	padding: 90px 0 48px;
+	text-shadow: 2px 2px 2px #333;
+	background-color: #0F056B;
+	background-image: -webkit-gradient(radial,center center,0,center center,460,from(#007FFF),to(#0F056B));
+	background-image: -webkit-radial-gradient(circle,#007FFF,#0F056B);
+	background-image: -moz-radial-gradient(circle,#007FFF,#0F056B);
+	background-image: -o-radial-gradient(circle,#007FFF,#0F056B);
+	background-repeat: no-repeat;
+}
+
+.jumbotron h1, p {
+	color: #d4d4d4;
+}
+
+.new-color p{
+	color: #707070;
+}
+
+.col-md-8 h1 {
+	font-size: 50px;
+}
+
+.col-md-3 h2 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.col-md-3 h3 {
+	font-size: 16px;
+	margin-top: 10px;
+}
+
+.col-md-3 img {
+	width: 130px;
+	box-shadow: 3px 3px 2px #888888;
+}
+
+.robot-pic, .featurette-image {
+	box-shadow: 3px 3px 2px #888888;
+}
+
+.col-md-3 p {
+	text-align: center;
+}
+
+.col-md-3 a{
+	width: 100%;
+}
+
+.col-md-10 h2 {
+	font-size: 20px;
+}
+
+.sidebar-offcanvas {
+	float: right;
+}
+
+.robot-name {
+	margin-top: 80px;
+}
